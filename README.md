@@ -1,0 +1,2 @@
+# AlgoritimoParede
+AlgoritimoParede
